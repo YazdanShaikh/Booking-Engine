@@ -1,0 +1,2 @@
+banner background color = #003b95
+theme color = #05203c
